@@ -18,7 +18,7 @@ With AstraMind, you can:
 Why AstraMind?
 The name reflects the vision of a guiding “star mind” — a mentor that illuminates complex AI concepts and provides clarity, whether you’re a beginner exploring fundamentals or an advanced learner building real-world applications.
 
-#AstraMind – Setup & Run Guide
+# AstraMind – Setup & Run Guide
 ## 🔧 Requirements
 
 Make sure you have the following installed:
